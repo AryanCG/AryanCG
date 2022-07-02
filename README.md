@@ -1,5 +1,11 @@
 ### Hi there 👋
-ljkdf
+- 🔭 I’m currently working on Unity
+- 🌱 I’m currently learning Unity Game Development
+- 👯 I’m looking to collaborate on Unity Projects
+- 🤔 I’m looking for help with C# scripting
+- 📫 How to reach me: Discord--
+- ⚡ Fun fact: Beginner Game Developer
+
 
 <!--
 **AryanCG/AryanCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
