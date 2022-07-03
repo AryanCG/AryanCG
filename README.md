@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity Game Development
 - 👯 I’m looking to collaborate on Unity Projects
 - 🤔 I’m looking for help with C# scripting
-- 📫 How to reach me: Discord-- ArYaN CG#3370
+- 📫 How to reach me: Discord-- Code With Aryan#3370
 - ⚡ Fun fact: Beginner Game Developer
 
 
